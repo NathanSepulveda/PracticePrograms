@@ -1,0 +1,5 @@
+git clone - copy any git repo to your computer. Paste URL provided in website
+git status - check untracked files
+git add . - add all untracked files 
+git commit -m "message" - provide a message in git for commit
+git push origin master - copy your code to github cloud
