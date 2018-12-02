@@ -1,0 +1,1 @@
+Practicing CS basics with javascript.
